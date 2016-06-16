@@ -1,0 +1,5 @@
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\bin\Release\RawlinsonITUpload.Domain.dll
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\bin\Release\RawlinsonITUpload.Domain.pdb
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\obj\Release\RawlinsonITUpload.Domain.csprojResolveAssemblyReference.cache
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\obj\Release\RawlinsonITUpload.Domain.dll
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\obj\Release\RawlinsonITUpload.Domain.pdb

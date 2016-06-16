@@ -1,0 +1,4 @@
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\bin\Debug\RawlinsonITUpload.Domain.dll
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\bin\Debug\RawlinsonITUpload.Domain.pdb
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\obj\Debug\RawlinsonITUpload.Domain.dll
+C:\Users\miker\Documents\Visual Studio 2015\Projects\RawlinsonITUploadToQueue\RawlinsonITUpload.Domain\obj\Debug\RawlinsonITUpload.Domain.pdb

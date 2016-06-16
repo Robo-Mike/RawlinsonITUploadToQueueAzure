@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RawlinsonITUploadToQueue" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\miker\\Documents\\Visual\ Studio\ 2015\\Projects\\RawlinsonITUploadToQueue\\RawlinsonITUploadToQueue\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\miker\\Documents\\Visual\ Studio\ 2015\\Projects\\RawlinsonITUploadToQueue\\RawlinsonITUploadToQueue\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="RawlinsonITUploadToQueue/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\miker\\Documents\\Visual\ Studio\ 2015\\Projects\\RawlinsonITUploadToQueue\\RawlinsonITUploadToQueue\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="AzureWebJobsStorage-Web.config Connection String" description="" value="DefaultEndpointsProtocol=https;AccountName=trialrawlinsonit;AccountKey=aoH04kB3Fjn2JRa7EqsIwX8SgSO3KQXw5VUfTsVlgHBqV8DQEo3bZ1aOZRRubdJgCm9bnjS1bUVF+unooVNiDQ==" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\miker\\Documents\\Visual\ Studio\ 2015\\Projects\\RawlinsonITUploadToQueue\\RawlinsonITUploadToQueue\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureWebJobsStorage']/@connectionString" />
+  </parameter>
+</parameters>
